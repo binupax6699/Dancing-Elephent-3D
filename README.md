@@ -11,4 +11,4 @@ A 3D character sculpt created in Blender for Hack Club Stardance
 * Poly Count: ~470,000 faces high-poly sculpt.
 
 ## Renders & Media
-* Google Drive Preview: [PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]
+* Google Drive Preview: (https://drive.google.com/drive/folders/1-gnNZSz_9EhA0hqmqnr_dFrhukve6BqT?usp=sharing)
