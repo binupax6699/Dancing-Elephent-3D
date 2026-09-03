@@ -12,13 +12,9 @@ A 3D elephant character sculpt created in Blender as part of my Hack Club Starda
 * **Sculpting:** Added skin wrinkles, muscle structure, bone definition, nails, and other surface details.
 * **Poly Count:** ~470,000 faces (high-poly sculpt).
 
-## Renders & Media
+## Render
 
 ![Final Render](003.png)
-
-**Full Project:** [Google Drive](https://drive.google.com/drive/folders/1-gnNZSz_9EhA0hqmqnr_dFrhukve6BqT?usp=sharing)
-
-*Contains the `.blend` file, and project files.*
 
 ## Project Info
 
