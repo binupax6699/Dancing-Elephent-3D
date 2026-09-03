@@ -14,11 +14,11 @@ A 3D elephant character sculpt created in Blender as part of my Hack Club Starda
 
 ## Renders & Media
 
-![Final Render](001.png)
+![Final Render](003.png)
 
 **Full Project:** [Google Drive](https://drive.google.com/drive/folders/1-gnNZSz_9EhA0hqmqnr_dFrhukve6BqT?usp=sharing)
 
-*Contains the `.blend` file, screenshots, and project files.*
+*Contains the `.blend` file, and project files.*
 
 ## Project Info
 
