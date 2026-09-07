@@ -18,7 +18,7 @@ A 3D elephant character sculpt created in Blender as part of my Hack Club Starda
 
 ## Demos
 
-**3D Model:** [View the 3D MODEL on Sketchfab]()
+**3D Model:** [View the 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/elephant-2cfe4597e1894d19b66a156b0b348732)
 
 ## Project Info
 
