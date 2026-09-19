@@ -1,5 +1,7 @@
 # DANCING ELEPHANT — 3D
 
+![Final Render](003.png)
+
 ## Overview
 
 A 3D elephant character sculpt created in Blender as part of my Hack Club Stardance project.
@@ -12,9 +14,14 @@ A 3D elephant character sculpt created in Blender as part of my Hack Club Starda
 * **Sculpting:** Added skin wrinkles, muscle structure, bone definition, nails, and other surface details.
 * **Poly Count:** ~470,000 faces (high-poly sculpt).
 
-## Render
+## License
 
-![Final Render](003.png)
+Licensed under **CC BY-NC 4.0**.
+You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
+
+**Commercial use or resale requires permission.**
+
+[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Demos
 
