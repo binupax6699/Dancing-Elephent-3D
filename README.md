@@ -16,12 +16,8 @@ A 3D elephant character sculpt created in Blender as part of my Hack Club Starda
 
 ## License
 
-Licensed under **CC BY-NC 4.0**.
-You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
-
-**Commercial use or resale requires permission.**
-
-[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
+Licensed under **CC Attribution**.
+You may use, modify, and share this project for **commercial purposes**, with credit to **Binupa**.
 
 ## Demos
 
